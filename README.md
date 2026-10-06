@@ -7,6 +7,13 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 - TypeScript
 - Tailwind CSS 4
 
+## Available Scripts
+
+- `npm run dev` starts the local development server.
+- `npm run build` creates a production build.
+- `npm run start` runs the production server.
+- `npm run lint` checks the project with ESLint.
+
 ## Getting Started
 
 First, run the development server:
