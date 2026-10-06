@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Project Stack
+
+- Next.js 16.1.6 with the App Router
+- React 19.2.3
+- TypeScript
+- Tailwind CSS 4
+
 ## Getting Started
 
 First, run the development server:
